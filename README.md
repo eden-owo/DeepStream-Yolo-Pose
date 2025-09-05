@@ -3,9 +3,11 @@
 NVIDIA DeepStream SDK application for YOLO-Pose models (Updated for DeepStream 7.1 and YOLO11-Pose)
 
 
-> - YOLO objetct detection models and other infos: https://github.com/marcoslucianops/DeepStream-Yolo
+> This is a continued implementation of the original project, updated to support DeepStream 7.1 and YOLO11-Pose.
 
-> - Original YOLO-Pose models for DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0: https://github.com/marcoslucianops/DeepStream-Yolo-Pose
+> YOLO objetct detection models and other infos: https://github.com/marcoslucianops/DeepStream-Yolo
+
+> Original YOLO-Pose models for DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0: https://github.com/marcoslucianops/DeepStream-Yolo-Pose
 
 ---
 
