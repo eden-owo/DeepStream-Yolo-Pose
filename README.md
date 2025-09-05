@@ -128,3 +128,18 @@ topk=300
 ## Reference: 
 * https://github.com/marcoslucianops/DeepStream-Yolo-Pose
 * https://github.com/NVIDIA-AI-IOT/deepstream_python_apps
+
+## Project Lineage
+
+This repository is a continuation of the unmaintained project  
+[marcoslucianops/DeepStream-Yolo-Pose](https://github.com/marcoslucianops/DeepStream-Yolo-Pose).
+
+- The **original upstream implementation** (for DeepStream 6.0–6.3) is preserved in branch [`legacy-upstream`](https://github.com/eden-owo/DeepStream-Yolo-Pose/tree/legacy-upstream)  
+  and tagged as [`upstream-legacy-2023`](https://github.com/eden-owo/DeepStream-Yolo-Pose/releases/tag/upstream-legacy-2023).  
+  This keeps the original history intact for reference and reproducibility.
+
+- The **active development branch** is [`master`](https://github.com/eden-owo/DeepStream-Yolo-Pose/tree/master),  
+  updated for **DeepStream 7.1** and supporting newer models such as **YOLO11-Pose**.
+
+If you are looking for compatibility with DeepStream ≤ 6.3, please check the legacy branch/tag.  
+For DeepStream 7.1 and newer development, use this repository’s master branch.
