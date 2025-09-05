@@ -81,8 +81,12 @@ Export the CUDA_VER env according to your DeepStream version and platform:
   DeepStream ≤6.3: install pyds from  `NVIDIA-AI-IOT/deepstream_python_apps` 
 
 
+### 5. Prepare and Export the Model to ONNX
 
-### 5. Run
+Create a dedicated directory for the model, then follow [the documentation](./docs/) to set up the model and export it as an .onnx file.
+
+
+### 6. Run
 
 * C code
 
